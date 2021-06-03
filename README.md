@@ -16,7 +16,7 @@ You can refer to the [fairseq-image-captioning](https://github.com/krasserm/fair
 
 
 We store the directory of *cider* and *coco-caption* in
-BaiduDisk [Download](https://pan.baidu.com/s/1zMHZN7V55LsSMiLp4HLubQ), code is 3eje.
+[BaiduDisk](https://pan.baidu.com/s/1zMHZN7V55LsSMiLp4HLubQ), code is 3eje.
 You should download them to *TCIC*.
 
 

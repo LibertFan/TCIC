@@ -15,7 +15,7 @@ export PYTHONIOENCODING=utf-8
 You can refer to the [fairseq-image-captioning](https://github.com/krasserm/fairseq-image-captioning) for data downloading and preprocessing.
 
 
-We store the directory of *cider* and *coco-caption* in
+We store the directory of *cider*, *coco-caption* and *data-bin* in
 [BaiduDisk](https://pan.baidu.com/s/1zMHZN7V55LsSMiLp4HLubQ), code is 3eje.
 You should download them to *TCIC*.
 
